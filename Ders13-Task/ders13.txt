@@ -1,0 +1,3 @@
+Student1's name: Ayna //Student1's surname: Amrahova //Student1's age: 19 //Student1's last score: 85.02
+Student2's name: Altun //Student2's surname: Kərimli //Student2's age: 16 //Student2's last score: 94.0
+Student3's name: Ramil //Student3's surname: Mammadov //Student3's age: 25 //Student3's last score: 88.5
